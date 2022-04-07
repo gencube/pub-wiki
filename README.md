@@ -2,6 +2,13 @@
 Public Wiki info for various topics
 
 
+
+
+## Quotes
+ - [Science](./quotes/science/index.md)
+
+
+
 # Disclaimer
 All information here are provided without warranty or any legal obligations.
 It is only expressed as a personal oppinion. Before any actions or harm to anyone,
